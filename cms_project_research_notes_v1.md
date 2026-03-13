@@ -3,7 +3,7 @@
 ## Project Research Notes -- Version 1
 
 Author: Suman Chettri Program: B.Tech Computer Science Project Type:
-Final Year Major Project
+Mini Project
 
 ------------------------------------------------------------------------
 

@@ -3,7 +3,7 @@
 ## Advanced Research Notes -- Version 2
 
 Author: Suman Chettri Program: B.Tech Computer Science Project Category:
-Final Year Major Project Domain: Web Systems + Artificial Intelligence +
+Mini Project Domain: Web Systems + Artificial Intelligence +
 Educational Data Mining
 
 ------------------------------------------------------------------------
