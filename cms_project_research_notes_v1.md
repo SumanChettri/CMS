@@ -3,7 +3,11 @@
 ## Project Research Notes -- Version 1
 
 Author: Suman Chettri Program: B.Tech Computer Science Project Type:
+<<<<<<< HEAD
 Mini Project
+=======
+Mini project
+>>>>>>> dca243fcf73f66d78b8caf0fab9782a42c499b04
 
 ------------------------------------------------------------------------
 
